@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Ajay Prajapati banner" />
+<h1>Ajay Prajapati</h1>
+
+<b>Web Development &nbsp;|&nbsp; AI &amp; ML &nbsp;|&nbsp; B.Tech CSE (AI &amp; ML)</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=640&lines=First-year+B.Tech+CSE+(AI+%26+ML)+student;Building+web+apps+with+Next.js+%26+TypeScript;Learning+AI%2FML+%26+solving+DSA+on+LeetCode;SIH+2026+participant+%7C+Team+Innov8x" alt="Typing intro" />
 
@@ -156,6 +158,5 @@ These are goals, not claims. I'll update the status as I go.
 
 *"Learning in public, building one project at a time."* 🚀
 
-<img src="./footer.svg" width="100%" alt="footer" />
 
 </div>
