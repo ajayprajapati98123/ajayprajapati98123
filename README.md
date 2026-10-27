@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:0891b2&height=220&section=header&text=Ajay%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Development%20%7C%20AI%20%26%20ML%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descSize=18&descAlignY=60" width="100%" alt="Ajay Prajapati banner" />
+<img src="./banner.svg" width="100%" alt="Ajay Prajapati banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=640&lines=First-year+B.Tech+CSE+(AI+%26+ML)+student;Building+web+apps+with+Next.js+%26+TypeScript;Learning+AI%2FML+%26+solving+DSA+on+LeetCode;SIH+2026+participant+%7C+Team+Innov8x" alt="Typing intro" />
 
@@ -156,6 +156,6 @@ These are goals, not claims. I'll update the status as I go.
 
 *"Learning in public, building one project at a time."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="footer" />
 
 </div>
